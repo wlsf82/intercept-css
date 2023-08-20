@@ -18,6 +18,12 @@ Run `npm test` (or `npm t` for the short version) to run the tests in headless m
 
 Or, run `npm run cy:open` to open the Cypress App and run the tests in interactive mode.
 
+### Test results
+
+After running the tests, you should have a result like the one below.
+
+https://github.com/wlsf82/intercept-css/assets/2768415/3d197a76-a021-46ed-a78d-ae497ac083d5
+
 ## Support this project
 
 If you want to support this project, leave a ⭐.

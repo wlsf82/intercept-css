@@ -141,7 +141,7 @@ input[type="radio"] {
 }
 
 #cat {
-    display: none;
+    display: block;
 }
 
 #privacy {

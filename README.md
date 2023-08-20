@@ -22,7 +22,7 @@ Or, run `npm run cy:open` to open the Cypress App and run the tests in interacti
 
 After running the tests, you should have a result like the one below.
 
-https://github.com/wlsf82/intercept-css/assets/2768415/3d197a76-a021-46ed-a78d-ae497ac083d5
+https://github.com/wlsf82/intercept-css/assets/2768415/82cd1472-6033-4b8c-a8fa-dd917e62eb6d
 
 ## Support this project
 

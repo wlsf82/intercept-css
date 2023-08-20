@@ -4,6 +4,7 @@ describe('CSS interception', () => {
       'GET',
       '**/style.css',
       { fixture: 'style.css' }
+      // { body: '' }
     )
 
     cy.visit('https://tat-csc.s3.sa-east-1.amazonaws.com/index.html')

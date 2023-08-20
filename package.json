@@ -1,0 +1,22 @@
+{
+  "name": "intercept-css",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate how to intercept and change the application CSS with Cypress.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Talking About Testing",
+    "Cypress.io",
+    "cy.intercept",
+    "CSS interception with Cypress",
+    "Testing"
+  ],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}

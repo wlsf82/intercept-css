@@ -1,4 +1,4 @@
-# intercept-css
+# Intercept CSS
 
 Sample project to demonstrate how to intercept and change the application CSS with Cypress.
 
